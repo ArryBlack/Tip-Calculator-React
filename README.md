@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here for solution](https://github.com/ArryBlack/Tip-Calculator-React)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click here for live site url](https://arryblack.github.io/Tip-Calculator-React/)
 
 ## My process
 
