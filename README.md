@@ -57,5 +57,5 @@ I learnt and applied reactjs for this project. I learnt dynamic state management
 
 ## Acknowledgments
 
-I'd like to acknowledge my friend [Mark Maksi](https://github.com/mmaksi) for guiding me to learn React and helping me to understand the basic structure and mindset of solving problems with React, along with best practices.
+I'd like to acknowledge my friend [Mark Maksi](https://github.com/mmaksi) for guiding me on my journey to learn React and helping me understand the basic structure and mindset of solving problems with React, along with best practices.
 
